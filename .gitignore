@@ -1,0 +1,6 @@
+files/
+*.gpkg
+*.gpkg*
+kiban.qgz
+tmp/
+*.tar
